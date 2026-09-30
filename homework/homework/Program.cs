@@ -12,7 +12,7 @@ namespace homework
             Console.WriteLine();
             Console.WriteLine("1 - Через InMemoryRepository");
             Console.WriteLine("2 - Через CSV");
-            Console.Write("выбери как пойдем дальше дружище: ");
+            Console.Write("Сделай выбор:");
             string choice = Console.ReadLine();
 
             List<Zone> zones;
